@@ -1,5 +1,5 @@
 {
-    "name": "xxtea/xxtea",
+    "name": "arunagirinathar/xxtea",
     "type": "library",
     "description": "XXTEA is a fast and secure encryption algorithm. This is a XXTEA library for PHP.",
     "keywords": [
@@ -11,13 +11,13 @@
         "cryptography",
         "library"
     ],
-    "homepage": "https://github.com/xxtea/xxtea-php",
+    "homepage": "https://github.com/arunagirinathar/xxtea-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ma Bingyao",
-            "email": "mabingyao@gmail.com",
-            "homepage": "https://github.com/xxtea/xxtea-php",
+            "name": "R. Sivaramakrishna Sharma",
+            "email": "arunagirinathar@gmail.com",
+            "homepage": "https://github.com/arunagirinathar/xxtea-php",
             "role": "Developer"
         }
     ],

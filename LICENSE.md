@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2023 R. Sivaramakrishna Sharma <arunagirinathar@gmail.com>
 Copyright (c) 2008-2016 Ma Bingyao <mabingyao@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
