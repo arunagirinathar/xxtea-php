@@ -1,6 +1,7 @@
 {
     "name": "arunagirinathar/xxtea-php",
     "type": "library",
+    "version": "1.0.1",
     "description": "XXTEA is a fast and secure encryption algorithm. This is a XXTEA library for PHP.",
     "keywords": [
         "xxtea",
